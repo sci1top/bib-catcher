@@ -57,9 +57,9 @@ Copy the **Reference** text from the paper and paste it into a file in `input/` 
 For example, I paste the followed text to `input/benson2010network.txt` ("benson2010network" is the citekey of the demo paper)
 
 ```txt
-[1] M. Al-Fares, A. Loukissas, and A. Vahdat. A scalable, commodity data center network architecture. In SIGCOMM, pages 63–74, 2008.
-[2] M. Al-Fares, S. Radhakrishnan, B. Raghavan, W. College, N. Huang, and A. Vahdat. Hedera: Dynamic flow scheduling for data center networks. In Proceedings of NSDI 2010, San Jose, CA, USA, April 2010. [3] T. Benson, A. Anand, A. Akella, and M. Zhang. Understanding Data Center Traffic Characteristics. In Proceedings of Sigcomm Workshop: Research on Enterprise Networks, 2009. 
-[4] T. Benson, A. Anand, A. Akella, and M. Zhang. The case for fine-grained traffic engineering in data centers. In Proceedings of INM/WREN ’10, San Jose, CA, USA, April 2010. 
+Aflitos S, Schijlen E, de Jong H, de Ridder D, Smit S, Finkers R, Wang J, Zhang G, Li N, Mao L, et al. Exploring genetic variation in the tomato (Solanum section Lycopersicon) clade by whole-genome sequencing. Plant J. 2014:80(1):136–148. https://doi.org/10.1111/tpj. 12616
+Alonge M, Lebeigle L, Kirsche M, Jenike K, Ou S, Aganezov S, Wang X, Lippman ZB, Schatz MC, Soyk S. Automated assembly scaffolding using RagTag elevates a new tomato system for high-throughput genome editing. Genome Biol. 2022:23:258.
+ Alonge M, Soyk S, Ramakrishnan S, Wang X, Goodwin S, Sedlazeck FJ, Lippman ZB, Schatz MC. RaGOO: fast and accurate referenceguided scaffolding of draft genomes. Genome Biol. 2019:20(1):224. https://doi.org/10.1186/s13059-019-1829-6
 ```
 
 The text can be in only one line. Note that each reference should be separated with a space (` `), which is used to separate each reference by regular expression.
